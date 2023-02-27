@@ -1,10 +1,9 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.my.id",
+    "ownerNumber": ["6289510436264@s.whatsapp.net","60166192592@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ AbeFourོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/habilmlna",
+    "botName": "AFKStoreོ ",
+    "footer": "apiAbefour.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
@@ -20,9 +19,9 @@
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 10,
     "gcount": {
-        "prem": 1000,
+        "prem": 100,
         "user": 15
     }
 }
